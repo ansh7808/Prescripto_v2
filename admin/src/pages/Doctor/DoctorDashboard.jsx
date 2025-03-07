@@ -3,7 +3,7 @@ import { useContext } from 'react'
 import { DoctorContext } from '../../context/DoctorContext'
 import { useEffect } from 'react'
 import { assets } from '../../assets/assets'
-import { AppContext } from '../../context/Appcontext'
+import { AppContext } from '../../context/AppContext'
 
 export const DoctorDashboard = () => {
     const{dToken,dashData,getDashData,setDashData,cancelAppointment,completeAppointment} = useContext(DoctorContext)

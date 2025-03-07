@@ -1,7 +1,7 @@
 import React from 'react'
 import { useContext } from 'react'
 import { DoctorContext } from '../../context/DoctorContext'
-import { AppContext } from '../../context/Appcontext'
+import { AppContext } from '../../context/AppContext'
 import { useEffect } from 'react'
 import { useState } from 'react'
 import axios from 'axios'
