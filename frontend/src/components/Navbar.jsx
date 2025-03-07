@@ -80,6 +80,11 @@ export const Navbar = () => {
                 <p className='px-4 py-2 rounded inline-block'>ABOUT</p></NavLink>
                 <NavLink to='/contact' onClick={()=>setShowMenu(false)} >
                 <p className='px-4 py-2 rounded inline-block'>CONTACT</p></NavLink>
+                <a href="https://prescripto-admin-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <button className='py-0.5 px-2 border text-xs rounded-full mt-1'>
+            Admin Panel
+             </button>
+      </a>
             </ul>
            </div>
         
