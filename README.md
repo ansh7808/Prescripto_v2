@@ -16,3 +16,4 @@ Prescripto is an online doctor appointment booking platform where users can book
 - **AI Chatbot Integration** : Prescripto features an AI-powered chatbot that helps users with appointment bookings, clinic info, and general health queries always ending with a disclaimer to consult a real doctor.
 
 # Project UI
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/70ff547b-e09f-4807-a1aa-a65a6cd66f5d" />
