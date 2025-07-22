@@ -17,3 +17,7 @@ Prescripto is an online doctor appointment booking platform where users can book
 
 # Project UI
 <img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/70ff547b-e09f-4807-a1aa-a65a6cd66f5d" />
+<img width="1905" height="1034" alt="Image" src="https://github.com/user-attachments/assets/2f705193-db99-48d0-a8a7-b41289d73641" />
+<img width="1910" height="1014" alt="Image" src="https://github.com/user-attachments/assets/c336a693-b685-40ce-9f6e-3385b48e8f16" />
+<img width="1906" height="1027" alt="Image" src="https://github.com/user-attachments/assets/bd05fcaa-50b9-462a-a1d2-e50c167538fe" />
+<img width="1906" height="1012" alt="Image" src="https://github.com/user-attachments/assets/caa204cd-c169-4671-b54c-d3c76891ad29" />
